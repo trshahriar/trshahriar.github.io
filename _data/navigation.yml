@@ -9,6 +9,9 @@ main:
     # url: /cv/
     url: /files/Latest_Tanvir_Academic_CV.pdf
     
+  - title: "Research"
+    url: /research/  
+    
   - title: "Publications"
     url: /publications/
 
@@ -16,7 +19,10 @@ main:
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+
+  - title: "Contact"
+    url: /contact/   
     
   # - title: "Portfolio"
   #   url: /portfolio/
