@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research Highlights"
 author_profile: true
 ---
 
